@@ -42,11 +42,9 @@ button{
 } 
 .navbar-toggle:hover {
     border-color: lightgrey;
-    background-color:#c2c2a3  ;
+    background-color:#c2c2a3 !important ;
 } 
-.navbar-toggle:visited{
-    background-color:#c2c2a3 !important;
-}
+
 
 .menu-item{
     background-color: white;
