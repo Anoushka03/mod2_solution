@@ -1,0 +1,93 @@
+.head{
+    background-color: #c2c2a3;
+    border:2px solid black;
+    width:100%;
+    border-radius:0;
+    color: black;
+}
+.head-style{
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 10px;
+}
+.navbar-custom .navbar-brand
+{ 
+			color: black; 
+} 
+.container-fluid>.navbar-collapse{
+    margin-left: -30px;
+    margin-right: -30px;
+}
+.line{
+    border: 1px solid black;
+}
+button{
+    
+    width:52px !important;
+    
+}
+.navbar-default .navbar-toggle {
+    border-color:black;
+}
+.icon-bar{
+    background-color:black !important;
+    height: 5px !important;
+    width:30px !important;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+}
+.bar:hover .icon-bar{
+    background-color: lightgrey !important;
+} 
+.navbar-toggle:hover {
+    border-color: lightgrey;
+    background-color:#c2c2a3  ;
+} 
+.navbar-toggle:visited{
+    background-color:#c2c2a3 !important;
+}
+
+.menu-item{
+    background-color: white;
+    text-align:center;
+    width:100%;
+    border-radius:0;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.i1{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.i2{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.i3{
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+a:hover{
+    text-decoration: none;
+}
+.page-head{
+    font-weight: bold;
+}
+.content{
+    background-color:#c2c2a3 ;
+    margin-top: 50px;
+}
+.topic{
+    font-weight: bold;
+    color: black;
+}
+
